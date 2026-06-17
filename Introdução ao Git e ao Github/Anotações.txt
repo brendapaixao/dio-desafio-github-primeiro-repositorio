@@ -2,4 +2,4 @@
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-O git GUI é uma interface com janelas, sendo a parte da interatividade visual.
+O Git GUI é uma interface com janelas, sendo a parte da interatividade visual.
